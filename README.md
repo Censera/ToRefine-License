@@ -13,7 +13,6 @@ Permission is granted to use, copy, modify, and distribute this software, provid
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHORS ARE NOT LIABLE FOR ANY DAMAGES ARISING FROM THEIR USE.
 
 Modifications by: [Name], [Year]
-See: 
 ```
 
 # Terms and Conditions for Use, Reproduction, and Distribution
