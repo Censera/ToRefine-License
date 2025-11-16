@@ -9,3 +9,4 @@ This software has been modified from the original version.
 ## Changes made by Censera (2025)
 
 - Created the ToRefine license.
+- Removing “Modifications by: [NAME], [YEAR]” form the license body
