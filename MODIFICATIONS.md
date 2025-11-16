@@ -10,3 +10,4 @@ This software has been modified from the original version.
 
 - Created the ToRefine license.
 - Removing “Modifications by: [NAME], [YEAR]” form the license body.
+- Updated copyright year and license conditions for clarity.
